@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MONSTER\\source\\repos\\espor_proje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F19E8B56-32D1-4DAD-A376-40C0C2B5925F}|espor_proje\\espor_proje.csproj|c:\\users\\monster\\source\\repos\\espor_proje\\espor_proje\\kayitekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19E8B56-32D1-4DAD-A376-40C0C2B5925F}|espor_proje\\espor_proje.csproj|solutionrelative:espor_proje\\kayitekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19E8B56-32D1-4DAD-A376-40C0C2B5925F}|espor_proje\\espor_proje.csproj|C:\\Users\\MONSTER\\source\\repos\\espor_proje\\espor_proje\\kayitekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F19E8B56-32D1-4DAD-A376-40C0C2B5925F}|espor_proje\\espor_proje.csproj|solutionrelative:espor_proje\\kayitekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19E8B56-32D1-4DAD-A376-40C0C2B5925F}|espor_proje\\espor_proje.csproj|C:\\Users\\MONSTER\\source\\repos\\espor_proje\\espor_proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F19E8B56-32D1-4DAD-A376-40C0C2B5925F}|espor_proje\\espor_proje.csproj|solutionrelative:espor_proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19E8B56-32D1-4DAD-A376-40C0C2B5925F}|espor_proje\\espor_proje.csproj|C:\\Users\\MONSTER\\source\\repos\\espor_proje\\espor_proje\\tournamentlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19E8B56-32D1-4DAD-A376-40C0C2B5925F}|espor_proje\\espor_proje.csproj|solutionrelative:espor_proje\\tournamentlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19E8B56-32D1-4DAD-A376-40C0C2B5925F}|espor_proje\\espor_proje.csproj|C:\\Users\\MONSTER\\source\\repos\\espor_proje\\espor_proje\\tournamentlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F19E8B56-32D1-4DAD-A376-40C0C2B5925F}|espor_proje\\espor_proje.csproj|solutionrelative:espor_proje\\tournamentlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19E8B56-32D1-4DAD-A376-40C0C2B5925F}|espor_proje\\espor_proje.csproj|C:\\Users\\MONSTER\\source\\repos\\espor_proje\\espor_proje\\addtournamentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19E8B56-32D1-4DAD-A376-40C0C2B5925F}|espor_proje\\espor_proje.csproj|solutionrelative:espor_proje\\addtournamentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19E8B56-32D1-4DAD-A376-40C0C2B5925F}|espor_proje\\espor_proje.csproj|C:\\Users\\MONSTER\\source\\repos\\espor_proje\\espor_proje\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F19E8B56-32D1-4DAD-A376-40C0C2B5925F}|espor_proje\\espor_proje.csproj|solutionrelative:espor_proje\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19E8B56-32D1-4DAD-A376-40C0C2B5925F}|espor_proje\\espor_proje.csproj|C:\\Users\\MONSTER\\source\\repos\\espor_proje\\espor_proje\\addtournamentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F19E8B56-32D1-4DAD-A376-40C0C2B5925F}|espor_proje\\espor_proje.csproj|solutionrelative:espor_proje\\addtournamentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19E8B56-32D1-4DAD-A376-40C0C2B5925F}|espor_proje\\espor_proje.csproj|C:\\Users\\MONSTER\\source\\repos\\espor_proje\\espor_proje\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19E8B56-32D1-4DAD-A376-40C0C2B5925F}|espor_proje\\espor_proje.csproj|solutionrelative:espor_proje\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19E8B56-32D1-4DAD-A376-40C0C2B5925F}|espor_proje\\espor_proje.csproj|C:\\Users\\MONSTER\\source\\repos\\espor_proje\\espor_proje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19E8B56-32D1-4DAD-A376-40C0C2B5925F}|espor_proje\\espor_proje.csproj|solutionrelative:espor_proje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 261,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kayitEkrani.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\espor_proje\\espor_proje\\kayitEkrani.cs",
+              "RelativeDocumentMoniker": "espor_proje\\kayitEkrani.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\espor_proje\\espor_proje\\kayitEkrani.cs",
+              "RelativeToolTip": "espor_proje\\kayitEkrani.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAACkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:25:54.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\espor_proje\\espor_proje\\Form1.cs",
+              "RelativeDocumentMoniker": "espor_proje\\Form1.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\espor_proje\\espor_proje\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "espor_proje\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T14:48:36.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TournamentListForm.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\espor_proje\\espor_proje\\TournamentListForm.cs",
+              "RelativeDocumentMoniker": "espor_proje\\TournamentListForm.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\espor_proje\\espor_proje\\TournamentListForm.cs",
+              "RelativeToolTip": "espor_proje\\TournamentListForm.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAFcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:35:21.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TournamentListForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\espor_proje\\espor_proje\\TournamentListForm.cs",
+              "RelativeDocumentMoniker": "espor_proje\\TournamentListForm.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\espor_proje\\espor_proje\\TournamentListForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "espor_proje\\TournamentListForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:35:18.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\espor_proje\\espor_proje\\Profile.cs",
+              "RelativeDocumentMoniker": "espor_proje\\Profile.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\espor_proje\\espor_proje\\Profile.cs",
+              "RelativeToolTip": "espor_proje\\Profile.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAtwHoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:27:25.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Profile.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\espor_proje\\espor_proje\\Profile.cs",
+              "RelativeDocumentMoniker": "espor_proje\\Profile.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\espor_proje\\espor_proje\\Profile.cs [Tasar\u0131m]",
+              "RelativeToolTip": "espor_proje\\Profile.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:27:24.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "kayitEkrani.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\espor_proje\\espor_proje\\kayitEkrani.cs",
+              "RelativeDocumentMoniker": "espor_proje\\kayitEkrani.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\espor_proje\\espor_proje\\kayitEkrani.cs [Tasar\u0131m]",
+              "RelativeToolTip": "espor_proje\\kayitEkrani.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:25:53.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddTournamentForm.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\espor_proje\\espor_proje\\AddTournamentForm.cs",
+              "RelativeDocumentMoniker": "espor_proje\\AddTournamentForm.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\espor_proje\\espor_proje\\AddTournamentForm.cs",
+              "RelativeToolTip": "espor_proje\\AddTournamentForm.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAUwHkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:35:40.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddTournamentForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\espor_proje\\espor_proje\\AddTournamentForm.cs",
+              "RelativeDocumentMoniker": "espor_proje\\AddTournamentForm.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\espor_proje\\espor_proje\\AddTournamentForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "espor_proje\\AddTournamentForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:52:52.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\espor_proje\\espor_proje\\Program.cs",
+              "RelativeDocumentMoniker": "espor_proje\\Program.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\espor_proje\\espor_proje\\Program.cs",
+              "RelativeToolTip": "espor_proje\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T17:47:22.881Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 120,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
